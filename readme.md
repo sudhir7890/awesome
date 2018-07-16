@@ -230,6 +230,7 @@
 - [Progressive Enhancement](https://github.com/jbmoelker/progressive-enhancement-resources#readme)
 - [Next.js](https://github.com/unicodeveloper/awesome-nextjs#readme) - Framework for server-rendered React apps.
 - [Hyperapp](https://github.com/hyperapp/awesome-hyperapp#readme) - Tiny JavaScript library for building web apps.
+- [SSR](https://github.com/brillout/awesome-ssr#readme) - Render JavaScript apps to HTML.
 
 
 ## Back-End Development
